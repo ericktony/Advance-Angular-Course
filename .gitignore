@@ -1,0 +1,8 @@
+#Compiled outputs
+/dist
+/tmp
+/out-tsc
+
+#dependencies
+/node_modules
+/e2e
